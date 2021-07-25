@@ -1,5 +1,5 @@
-import { HomePage } from "../page-objects/homepage.po";
-import { driver } from "../common/basepage";
+const { HomePage } = require("../page-objects/homepage.po.ts");
+const { driver } = require ("../common/basepage.ts");
 
 describe('HomePage', () => {
 

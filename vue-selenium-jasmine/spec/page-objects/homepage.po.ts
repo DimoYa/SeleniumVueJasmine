@@ -1,4 +1,4 @@
-import { driver, waitForElement } from "../common/basepage";
+const { driver, waitForElement } = require("../common/basepage.ts");
 import { By } from 'selenium-webdriver';
 import { baseurl } from "../selenium.config.json";
 

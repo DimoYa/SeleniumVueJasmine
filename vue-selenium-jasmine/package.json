@@ -21,7 +21,8 @@
     "chromedriver": "^92.0.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
-    "jasmine": "^3.8.0",
+    "jasmine-core": "^3.8.0",
+    "jasmine-es6": "^0.4.3",
     "selenium-webdriver": "^4.0.0-beta.4",
     "vue-template-compiler": "^2.6.11"
   },
